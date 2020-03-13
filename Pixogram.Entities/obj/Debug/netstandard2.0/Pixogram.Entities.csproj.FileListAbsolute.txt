@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\PixoGramApi\Pixogram.Entities\bin\Debug\netstandard2.0\Pixogram.Entities.deps.json
+C:\Users\Admin\source\repos\PixoGramApi\Pixogram.Entities\bin\Debug\netstandard2.0\Pixogram.Entities.dll
+C:\Users\Admin\source\repos\PixoGramApi\Pixogram.Entities\bin\Debug\netstandard2.0\Pixogram.Entities.pdb
+C:\Users\Admin\source\repos\PixoGramApi\Pixogram.Entities\obj\Debug\netstandard2.0\Pixogram.Entities.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PixoGramApi\Pixogram.Entities\obj\Debug\netstandard2.0\Pixogram.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PixoGramApi\Pixogram.Entities\obj\Debug\netstandard2.0\Pixogram.Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PixoGramApi\Pixogram.Entities\obj\Debug\netstandard2.0\Pixogram.Entities.dll
+C:\Users\Admin\source\repos\PixoGramApi\Pixogram.Entities\obj\Debug\netstandard2.0\Pixogram.Entities.pdb
